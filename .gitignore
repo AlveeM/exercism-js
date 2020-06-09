@@ -1,3 +1,7 @@
+### Exercism ###
+# Ignore .exercism
+.exercism
+
 # Logs
 logs
 *.log
